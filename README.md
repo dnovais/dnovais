@@ -1,7 +1,7 @@
-### Welcome!
+## Welcome!
 
 [![Linkedin Badge](https://img.shields.io/badge/-diegonovais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegonovais/)](https://www.linkedin.com/in/diegonovais/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@diegonovais.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@gdiegonovais.com.br)](mailto:contato@gdiegonovais.com.br)
+[![Gmail Badge](https://img.shields.io/badge/-contato@diegonovais.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@diegonovais.com.br)](mailto:contato@diegonovais.com.br)
 
 <!--
 **dnovais/dnovais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
