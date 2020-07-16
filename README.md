@@ -1,7 +1,7 @@
 <img align="right" width="100" height="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 # Welcome!
-### My name is Diego Novais and I'm a Software Engineer.
+### My name is Diego Novais and I'm a Software Engineer, entrepreneur, speaker and teacher. Always in search of knowledge.
 ### Interest: 
 - Ruby
 - JavaScript
