@@ -1,9 +1,13 @@
 <img align="right" width="100" height="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 # Welcome!
-## My name is Diego Novais.
-### I'm Software Engineer. Interest: Ruby, JS, Python, Big Data and AI.
+### My name is Diego Novais and I'm Software Engineer. 
+### Interest: 
+- Ruby
+- JavaScript
+- Python
 
+### Contact:
 
 [![Linkedin Badge](https://img.shields.io/badge/-diegonovais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegonovais/)](https://www.linkedin.com/in/diegonovais/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@diegonovais.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@diegonovais.com.br)](mailto:contato@diegonovais.com.br)
