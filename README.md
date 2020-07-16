@@ -1,3 +1,5 @@
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+
 ## Welcome!
 
 [![Linkedin Badge](https://img.shields.io/badge/-diegonovais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegonovais/)](https://www.linkedin.com/in/diegonovais/)
