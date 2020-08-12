@@ -12,7 +12,7 @@
 
 ### Contact:
 
-![Badge](https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=ghost&link=https://app.rocketseat.com.br/me/diego-novais)
+[![Badge](https://img.shields.io/badge/Rocketseat-%237159c1?style=flat-square&logo=ghost&link=https://app.rocketseat.com.br/me/diego-novais)](https://app.rocketseat.com.br/me/diego-novais)
 [![Linkedin Badge](https://img.shields.io/badge/-diegonovais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegonovais/)](https://www.linkedin.com/in/diegonovais/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@diegonovais.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@diegonovais.com.br)](mailto:contato@diegonovais.com.br)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5562982222780&text=Olá!)](https://api.whatsapp.com/send?phone=+5562982222780&text=Olá!)
