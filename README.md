@@ -5,8 +5,9 @@
 **Software engineer, enthusiast of the best technologies for development, speaker and teacher.**
 
 **Always in search of knowledge.**
-### Interest: 
+### Interest:
 - Ruby
+- Elixir
 - JavaScript
 - Python
 
