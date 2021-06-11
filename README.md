@@ -11,6 +11,10 @@
 - JavaScript
 - Python
 
+> "Good coupling is stable coupling!"
+>
+> -- <cite>Rodrigo Serradura</cite>
+
 ### Contact:
 
 [![Badge](https://img.shields.io/badge/Rocketseat-%237159c1?style=flat-square&logo=ghost&link=https://app.rocketseat.com.br/me/diego-novais)](https://app.rocketseat.com.br/me/diego-novais)
