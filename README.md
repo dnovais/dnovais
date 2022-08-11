@@ -9,7 +9,6 @@
 - Ruby
 - Elixir
 - JavaScript
-- Python
 
 ### Contact:
 
