@@ -8,6 +8,14 @@ With over a decade of experience in software engineering, I am always improving 
 
 **Always in search of knowledge.**
 
+---
+
+### Latest Blog posts
+
+- [4 Stages Of Problem Solving](https://dev.to/dnovais/4-stages-of-problem-solving-1fdd)
+- [Rock Paper and Scissors with Elixir](https://dev.to/dnovais/rock-paper-scissors-with-elixir-4k76)
+- [A List is not an Array](https://dev.to/dnovais/a-list-is-not-an-array-pi0)
+- [Pattern Matching With Functions](https://dev.to/dnovais/pattern-matching-with-functions-kb9)
 
 ### Contact:
 
