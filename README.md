@@ -24,3 +24,10 @@ With over a decade of experience in software engineering, I am always improving 
 [![Linkedin Badge](https://img.shields.io/badge/-diegonovais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegonovais/)](https://www.linkedin.com/in/diegonovais/)
 [![Gmail Badge](https://img.shields.io/badge/-contato@diegonovais.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@diegonovais.com.br)](mailto:contato@diegonovais.com.br)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5562982222780&text=Olá!)](https://api.whatsapp.com/send?phone=+5562982222780&text=Olá!)
+
+---
+### Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dnovais)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnovais&show_icons=true)
+
