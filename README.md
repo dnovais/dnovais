@@ -16,6 +16,8 @@ With over a decade of experience in software engineering, I am always improving 
 - [Rock Paper and Scissors with Elixir](https://dev.to/dnovais/rock-paper-scissors-with-elixir-4k76)
 - [A List is not an Array](https://dev.to/dnovais/a-list-is-not-an-array-pi0)
 - [Pattern Matching With Functions](https://dev.to/dnovais/pattern-matching-with-functions-kb9)
+- [What is an atom in Elixir?](https://dev.to/dnovais/what-is-an-atom-in-elixir-3253)
+- [Arity Of a Function](https://dev.to/dnovais/arity-of-a-function-1dl3)
 
 ### Contact:
 
