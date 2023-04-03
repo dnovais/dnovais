@@ -4,6 +4,8 @@
 ### My name is Diego Novais
 **Software Engineer | Elixir | Phoenix | Ruby | Ruby On Rails | JavaScript | Technical Writer.**
 
+With over a decade of experience in software engineering, I am always improving my technical knowledge and soft skills to positively impact a company's results and people's lives by building and delivering impactful products through code.
+
 **Always in search of knowledge.**
 
 
